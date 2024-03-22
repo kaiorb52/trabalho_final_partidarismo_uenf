@@ -1,2 +1,6 @@
-# trabalho_final_partidarismo_uenf
-LES04510 - Topicos Especiais em Politica: Partidarismo e Comportamento Politico
+# LES04510 - Topicos Especiais em Politica: Partidarismo e Comportamento Politico
+
+O presente repositorio tem o intuito de disponibilizar de forma aberta o trabalho final da disciplina Topicos Especiais em Politica: Partidarismo e Comportamento Politico, ministrada pelo Prof. Vitor Peixoto e Rafaella  Jaeger, no periodo de 2023/2
+
+O trabalho final teve como objetivo revisar a metodologia utilizada pelos autores Gimenes & Borba (2019) no artigo ["Adesão à Democracia e Apartidarismo na América Latina: Análise Multidimensional"](https://ojs.uel.br/revistas/uel/index.php/mediacoes/article/view/36408), no que concerne aos seus critérios de adesão democrática. A problemática do trabalho parte do viés de que os autores utilizaram faixas muito rígidas, considerando boa parte da população como cidadãos autoritários/não democráticos. 
+Dessa forma, foi desenvolvido um novo índice Dem4 e realizada uma análise da bibliografia para identificar variáveis que seriam mobilizadoras para o partidarismo na América Latina e, principalmente, para verificar como o novo Dem4 se desenvolve. Por fim, verificou-se que cidadãos democratas (Dem4) e interessados por política são mais partidários. Além disso, identifica-se que a Venezuela se apresenta como o país com mais democratas e simpatizantes partidários dos analisados, ao mesmo nível que o Uruguai, uma democracia consolidada com partidos centenários. Esse levantamento provocou os seguintes questionamentos: Necessariamente democracias geram democratas, ou seria que democratas geram democracias?
